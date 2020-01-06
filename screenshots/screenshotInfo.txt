@@ -1,0 +1,6 @@
+Screenshot 1511137296550__0:
+Julia Constant = 0.2666666666666666 + -0.004166666666666652i
+Top Left Coordinates: -2.0 + 1.125i
+Zoom (width): 2^2
+# of iterations: 10000
+

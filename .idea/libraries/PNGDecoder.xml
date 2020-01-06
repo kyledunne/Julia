@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PNGDecoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/jars/PNGDecoder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../libs/natives/windows" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

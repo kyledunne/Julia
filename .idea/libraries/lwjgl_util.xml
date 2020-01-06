@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl_util">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/jars/lwjgl_util.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../libs/javadoc/lwjgl-docs-2.9.0.zip!/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../libs/natives/windows" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
